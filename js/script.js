@@ -1,9 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     // Spinner auto off
     const loader = document.getElementById("loader");
-    setTimeout(() => {
-        loader.style.display = "none";
-    }, 2000);
+    loader.style.display = "none";
 
     // Visitor count update (Example: Fetching from an API)
     const visitorCountElement = document.getElementById("visitor-count");

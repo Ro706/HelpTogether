@@ -12,6 +12,7 @@ The Help Together website is a static site built using HTML, CSS, and JavaScript
 - **News & Media**: Latest updates and articles.
 - **Gallery**: Showcases profiles of supported children.
 - **Contact Form**: Allows visitors to send inquiries or feedback.
+- **Donate** : Allows visitors to donate money and helping poor children . 
 
 ## Features
 
